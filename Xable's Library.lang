@@ -1,0 +1,128 @@
+language.code=en-GB
+language=English
+
+xable.library.books.encyclopaedia1.name=Staxel Encyclopaedia Vol. 1
+xable.library.books.encyclopaedia1.description=Volume 1 of the Staxel Encyclopaedia.
+
+xable.library.books.encyclopaedia2.name=Staxel Encyclopaedia Vol. 2
+xable.library.books.encyclopaedia2.description=Volume 2 of the Staxel Encyclopaedia.
+
+xable.library.books.encyclopaedia3.name=Staxel Encyclopaedia Vol. 3
+xable.library.books.encyclopaedia3.description=Volume 3 of the Staxel Encyclopaedia.
+
+xable.library.books.encyclopaedia4.name=Staxel Encyclopaedia Vol. 4
+xable.library.books.encyclopaedia4.description=Volume 4 of the Staxel Encyclopaedia.
+
+xable.library.books.encyclopaedia5.name=Staxel Encyclopaedia Vol. 5
+xable.library.books.encyclopaedia5.description=Volume 5 of the Staxel Encyclopaedia.
+
+xable.library.books.farmingfordummies.name=Farming For Dummies
+xable.library.books.farmingfordummies.description=A beginner's guide to farming, written by F. Fan.
+
+xable.library.books.patchworked.name=Patchworked
+xable.library.books.patchworked.description=A series of seemingly unrelated short stories seemlessly patched together, written in honour of ZetaFunction's patch work.
+
+xable.library.books.staypawsitive.name=Stay Pawsitive
+xable.library.books.staypawsitive.description=A book about life coaching for dog owners.
+
+xable.library.books.tastetherainbow.name=The Colours of Life
+xable.library.books.tastetherainbow.description=A children's book illustrated by Rosemary.
+
+xable.library.books.toeatornottoeat.name=To Eat Or Not To Eat
+xable.library.books.toeatornottoeat.description=A guide to collecting mushrooms and their edible characteristics. Or not. Written by Morel.
+
+xable.library.books.totallycheckered.name=Totally Checkered
+xable.library.books.totallycheckered.description=Strategy Guide to checkers, written by Jamie.
+
+xable.library.books.velvet.name=Velvet And Lace
+xable.library.books.velvet.description=Eris' guide to sewing and embroidery. The book cover is made of actual velvet.
+
+xable.library.books.webdesign.name=Web Design
+xable.library.books.webdesign.description=A Web Design tutorial for beginners, in honour of code monkey Ravi.
+
+xable.library.bookshelf.checkered.name=Checkered Bookshelf
+xable.library.bookshelf.checkered.description=A bookshelf to match the Checkered set.
+
+xable.library.bookshelf.contemporary.name=Contemporary Bookshelf
+xable.library.bookshelf.contemporary.description=A bookshelf to match the Contemporary set.
+
+xable.library.bookshelf.farm.name=Farm Bookshelf
+xable.library.bookshelf.farm.description=A bookshelf to match the Farm set.
+
+xable.library.bookshelf.groovy.name=Groovy Bookshelf
+xable.library.bookshelf.groovy.description=A bookshelf to match the Groovy set.
+
+xable.library.bookshelf.minimalist.name=Minimalist Bookshelf
+xable.library.bookshelf.minimalist.description=A bookshelf to match the Minimalist set.
+
+xable.library.bookshelf.mushroom.name=Mushroom Bookshelf
+xable.library.bookshelf.mushroom.description=A bookshelf to match the Mushroom set.
+
+xable.library.bookshelf.pastel.name=Pastel Bookshelf
+xable.library.bookshelf.pastel.description=A bookshelf to match the Pastel set.
+
+xable.library.bookshelf.paw.name=Paw Bookshelf
+xable.library.bookshelf.paw.description=A bookshelf to match the Paw set.
+
+xable.library.bookshelf.ranch.name=Ranch Bookshelf
+xable.library.bookshelf.ranch.description=A bookshelf to match the Ranch set.
+
+xable.library.bookshelf.victorian.name=Victorian Bookshelf
+xable.library.bookshelf.victorian.description=A bookshelf to match the Victorian set.
+
+xable.library.books.checkered1.name=Checkered Book
+xable.library.books.checkered1.description=A book to match the Checkered set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.checkered2.name=Checkered Book
+xable.library.books.checkered2.description=A book to match the Checkered set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.contemporary1.name=Contemporary Book
+xable.library.books.contemporary1.description=A book to match the Contemporary set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.contemporary2.name=Contemporary Book
+xable.library.books.contemporary2.description=A book to match the Contemporary set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.farm1.name=Farm Book
+xable.library.books.farm1.description=A book to match the Farm set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.farm2.name=Farm Book
+xable.library.books.farm2.description=A book to match the Farm set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.groovy1.name=Groovy Book
+xable.library.books.groovy1.description=A book to match the Groovy set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.groovy2.name=Groovy Book
+xable.library.books.groovy2.description=A book to match the Groovy set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.groovy3.name=Groovy Book
+xable.library.books.groovy3.description=A book to match the Groovy set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.minimalist1.name=Minimalist Book
+xable.library.books.minimalist1.description=A book to match the Minimalist set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.minimalist2.name=Minimalist Book
+xable.library.books.minimalist2.description=A book to match the Minimalist set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.mushroom1.name=Mushroom Book
+xable.library.books.mushroom1.description=A book to match the Mushroom set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.mushroom2.name=Mushroom Book
+xable.library.books.mushroom2.description=A book to match the Mushroom set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.pastel1.name=Pastel Book
+xable.library.books.pastel1.description=A book to match the Pastel set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.pastel2.name=Pastel Book
+xable.library.books.pastel2.description=A book to match the Pastel set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.pastel3.name=Pastel Book
+xable.library.books.pastel3.description=A book to match the Pastel set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.paw1.name=Paw Book
+xable.library.books.paw1.description=A book to match the Paw set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.paw2.name=Paw Book
+xable.library.books.paw2.description=A book to match the Paw set. It's purely decorative and doesn't even have any pages!
+
+xable.library.books.staxeldocks.name=Staxel Docks
+xable.library.books.staxeldocks.description=A guide to building fishing docks, written in honour of Maxigregrze's dock building skills.

@@ -1,0 +1,27 @@
+{
+    "dockDefinition": "xable.library.bookshelf.dock",
+    "collision": true,
+    "__inherits": "staxel/docks/dockBase.config",
+    "code": "xable.library.bookshelf.pastel",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "container",
+        "storage",
+        "furniture",
+        "bookshelf"
+    ],
+    "randomizePosition": false,
+    "compound": {"size": {
+        "x": 2,
+        "y": 3,
+        "z": 1
+    }},
+    "voxels": "mods/Xable's Library/bookshelves/Pastel.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 800
+    },
+    "searchable": true
+}

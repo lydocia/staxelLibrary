@@ -1,0 +1,251 @@
+{
+  "code": "xable.library.bookshelf.dock",
+  "allowStacksForAllSites": false,
+  "sites": [
+    {
+      "siteName": "slot1",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": -0.75,
+        "y": 0.875,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot2",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": -0.50,
+        "y": 0.875,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot3",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": -0.25,
+        "y": 0.875,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot4",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": 0,
+        "y": 0.875,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot5",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": 0.25,
+        "y": 0.875,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot6",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": 0.50,
+        "y": 0.875,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+	{
+      "siteName": "slot7",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": -0.75,
+        "y": 2.125,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot8",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": -0.5,
+        "y": 2.125,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot9",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": -0.25,
+        "y": 2.125,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot10",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": 0,
+        "y": 2.125,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot11",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": 0.25,
+        "y": 2.125,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    },
+    {
+      "siteName": "slot12",
+      "compact": false,
+      "dimensionOverride": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "location": {
+        "x": 0.50,
+        "y": 2.125,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.5708 //90°
+      }
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "book",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    }
+  ]
+}

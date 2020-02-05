@@ -1,0 +1,16 @@
+{
+    "__inherits": "staxel/tileObject/moveable.config",
+    "code": "xable.library.books.contemporary2",
+    "categories": [
+        "book",
+        "furniture"
+    ],
+    "voxels": "mods/Xable's Library/books/Contemporary2.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 60,
+        "value": 100
+    },
+    "searchable": true
+}
